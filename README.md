@@ -1,5 +1,1 @@
-JAVA±àÐ´µÄÅÀ³æ
-  ÅÀÈ¡ÁËÄ³¸öappÏÂËùÐèµÄÎÄÕÂ
-  ²ÉÈ¡HttpClient·ÃÎÊ½Ó¿Ú
-  ÀûÓÃFastjson½âÎöjsonÊý¾Ý
-  Í¬Ê±¿ªÆô¶à¸öÏß³ÌÍ¬Ê±ÅÀ
+JAVAç¼–å†™çˆ¬è™«çˆ¬å–äº†æŸä¸ªappä¸‹æ‰€éœ€çš„æ–‡ç« 
